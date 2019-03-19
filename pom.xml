@@ -6,11 +6,11 @@
 
     <groupId>com.github.hioo520</groupId>
     <artifactId>function-auto</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
-    <name>collections-plus</name>
-    <description>a simple java api for function auto. Enhanced   processing java  function...
+    <name>function-auto</name>
+    <description>a simple java api for function auto. Enhanced processing java function...
     </description>
     <url>https://github.com/hioo520/function-auto</url>
 
@@ -48,7 +48,7 @@
         <dependency>
             <groupId>com.github.hioo520</groupId>
             <artifactId>collections-plus</artifactId>
-            <version>1.4.2</version>
+            <version>1.4.3</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
